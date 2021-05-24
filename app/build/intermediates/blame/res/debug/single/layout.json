@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\86139\\Desktop\\1111111111111111\\2222\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\noteslist_item.xml",
+        "source": "C:\\Users\\86139\\Desktop\\1111111111111111\\2222\\NotePad-master\\app\\src\\main\\res\\layout\\noteslist_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\86139\\Desktop\\1111111111111111\\2222\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\note_editor.xml",
+        "source": "C:\\Users\\86139\\Desktop\\1111111111111111\\2222\\NotePad-master\\app\\src\\main\\res\\layout\\note_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\86139\\Desktop\\1111111111111111\\2222\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_editor.xml",
+        "source": "C:\\Users\\86139\\Desktop\\1111111111111111\\2222\\NotePad-master\\app\\src\\main\\res\\layout\\title_editor.xml"
+    }
+]
